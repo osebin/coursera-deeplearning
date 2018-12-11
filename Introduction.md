@@ -25,3 +25,9 @@ And so by stacking together a few of the single neurons or the simple predictors
 So what you actually implement is this. Where, here, you have a neural network with four inputs. So the input features might be the size, number of bedrooms, the zip code or postal code, and the wealth of the neighborhood. And so given these input features, the job of the neural network will be to predict the price y. And notice also that each of these circle, these are called hidden units in the neural network, that each of them takes its inputs all four input features. So for example, rather than saying these first nodes represent family size and family size depends only on the features X1 and X2. Instead, we're going to say, well neural network, you decide whatever you want this known to be. And we'll give you all four of the features to complete whatever you want. So we say that layers that this is input layer and this layer in the middle of the neural network are density connected. Because every input feature is connected to every one of these circles in the middle. And the remarkable thing about neural networks is that, given enough data about x and y, given enough training examples with both x and y, neural networks are remarkably good at figuring out functions that accurately map from x to y.
 
 So, that's a basic neural network. In turns out that as you build out your own neural networks, you probably find them to be most useful, most powerful in supervised learning incentives, meaning that you're trying to take an input x and map it to some output y, like we just saw in the housing price prediction example. In the next video let's go over some more examples of supervised learning and some examples of where you might find your networks to be incredibly helpful for your applications as well.
+
+### Supervised Learning with Neural Networks
+
+### Why is Deep Learning taking off?
+
+### About this Course
